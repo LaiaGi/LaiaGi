@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Laia Girbes</h1>
+<h1>Hi 👋, I'm Laia Girbes</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
